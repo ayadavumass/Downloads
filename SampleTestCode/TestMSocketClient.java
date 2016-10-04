@@ -3,7 +3,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import edu.umass.cs.msocket.MSocket;
 import edu.umass.cs.msocket.mobility.MobilityManagerClient;
-public class MSocketClient
+public class TestMSocketClient
 {
 	public static void main(String[] args) throws IOException
 	{

@@ -5,7 +5,7 @@ import edu.umass.cs.msocket.MServerSocket;
 import edu.umass.cs.msocket.MSocket;
 import edu.umass.cs.msocket.mobility.MobilityManagerServer;
 
-public class MSocketServer
+public class TestMSocketServer
 {
              public static void main(String[] args) throws IOException
              {
